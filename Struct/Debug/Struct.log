@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Prepod\source\repos\Struct\Struct\main.cpp(132,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Prepod\source\repos\Struct\Struct\main.cpp(147,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Struct.vcxproj -> C:\Users\Prepod\source\repos\Struct\Debug\Struct.exe
